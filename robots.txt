@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /callme/
+Sitemap: https://notebook-rental.by/sitemap.xml
